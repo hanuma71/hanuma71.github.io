@@ -1,0 +1,150 @@
+header {
+  background: #fcdb00;
+  padding-top: 58px; }
+
+.menu li {
+  list-style-type: none;
+  display: block;
+  margin-left: 72px; }
+  .menu li a {
+    font-family: "PT Sans", bold;
+    color: #010101;
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center; }
+    .menu li a:hover {
+      text-decoration: none;
+      color: #fff;
+      border: 2px solid #fff;
+      border-radius: 45px;
+      padding: 3px; }
+
+.last_head_block {
+  margin-top: 70px; }
+
+h2 {
+  font-family: "PT Sans", bold;
+  color: #010101;
+  font-size: 22pt;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32pt; }
+
+h4 {
+  color: #545454;
+  font-size: 12pt;
+  text-align: center;
+  font-family: "PT Sans", sans-serif, 400;
+  padding-top: 26px; }
+
+.head_text {
+  text-align: center;
+  margin-top: 74px; }
+  .head_text p {
+    color: #545454;
+    font-size: 12pt;
+    text-align: center;
+    font-family: "PT Sans", sans-serif, 400;
+    padding-top: 26px; }
+
+.icon-block {
+  margin-top: 28px;
+  list-style-type: none;
+  display: block; }
+  .icon-block i {
+    font-size: 42pt;
+    margin-right: 26px; }
+
+.end_head_block {
+  margin-bottom: 48px;
+  text-align: center; }
+  .end_head_block span {
+    font-size: 70pt;
+    color: #feed80; }
+    .end_head_block span:before {
+      content: '.';
+      color: #fff; }
+    .end_head_block span:after {
+      content: '.'; }
+
+.content {
+  background: #fff;
+  margin-top: 120px;
+  margin-bottom: 168px; }
+
+.content_icons_block {
+  margin-top: 90px;
+  font-family: "PT Sans", sans-serif, 400;
+  color: #010101;
+  font-size: 12pt;
+  color: #d6d6d6; }
+  .content_icons_block h5 {
+    font-family: "PT Sans", sans-serif, 400;
+    color: #010101;
+    font-size: 16pt; }
+  .content_icons_block i {
+    font-size: 44pt;
+    color: #010101; }
+
+.touch_block {
+  padding-top: 98px;
+  background: #010101;
+  text-align: center; }
+
+.touch_block_text {
+  color: #545454;
+  font-size: 12pt;
+  text-align: center;
+  font-family: "PT Sans", sans-serif, 400;
+  font-size: 18pt; }
+  .touch_block_text h3 {
+    font-family: "PT Sans", bold;
+    color: #010101;
+    font-size: 22pt;
+    font-weight: bold;
+    text-align: center;
+    color: #fcdb00; }
+
+.touch_block_row {
+  margin-top: 48px; }
+
+.touch_block_btn {
+  margin-left: 20px; }
+
+footer {
+  background: #010101;
+  margin-top: 70px; }
+
+.btn-ikons-row {
+  margin-top: 80px; }
+
+.btn-ikons ul {
+  list-style-type: none;
+  display: block; }
+  .btn-ikons ul li {
+    display: block;
+    width: 36px;
+    height: 36px;
+    text-align: center;
+    margin-right: 32px;
+    background-color: #fcdb00;
+    border-radius: 4px;
+    font-size: 18pt; }
+  .btn-ikons ul a {
+    color: #010101; }
+
+.footer_content {
+  font-size: 14pt;
+  color: #fff;
+  font-family: "PT Sans", sans-serif, 400;
+  margin-top: 130px;
+  padding-bottom: 140px; }
+  .footer_content ul {
+    list-style-type: none; }
+  .footer_content a {
+    font-size: 14pt;
+    color: #fff;
+    font-family: "PT Sans", sans-serif, 400; }
+    .footer_content a:hover {
+      color: #fcdb00;
+      text-decoration: none; }
